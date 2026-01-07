@@ -1,0 +1,13 @@
+Generate a realistic task description for the following task in an Asana workspace:
+
+Task Name: {task_name}
+Project: {project_name}
+Workflow: {workflow_type}
+
+The description should be:
+- Professional and clear
+- Include relevant details
+- 2-4 sentences or bullet points
+- Appropriate for the workflow type
+
+Description:

@@ -1,0 +1,14 @@
+Generate a realistic comment for a task in Asana:
+
+Task: {task_name}
+Context: {context}
+
+Generate a brief, natural comment (1-2 sentences) that sounds like it's from a real team member working on this task. Use casual professional language.
+
+Examples:
+- "Working on this now, should have it done by EOD"
+- "Blocked on the API endpoint - need backend team to deploy first"
+- "Updated the design based on feedback, PTAL"
+- "Looks good! Approved and ready to merge"
+
+Comment:

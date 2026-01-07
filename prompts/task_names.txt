@@ -1,0 +1,32 @@
+You are generating realistic task names for an Asana project management simulation.
+
+Context:
+- Project Type: {project_type}
+- Workflow: {workflow_type}
+- Team: {team_type}
+
+Generate {count} realistic, professional task names that would appear in this type of project.
+
+Requirements:
+- Be specific and actionable
+- Use appropriate technical or domain terminology
+- Vary the format and complexity
+- Include details like component names, features, or deliverables
+- Make them sound like real work items
+
+Examples for Engineering projects:
+- "Fix authentication timeout in OAuth flow"
+- "Implement real-time notifications using WebSockets"
+- "Refactor database queries for better performance"
+
+Examples for Marketing projects:
+- "Q1 Product Launch - Email Sequence"
+- "Create social media assets for campaign"
+- "Schedule blog posts for March"
+
+Examples for Product projects:
+- "Define requirements for mobile onboarding"
+- "User research: checkout flow usability"
+- "Prioritize Q2 feature backlog"
+
+Generate {count} task names (one per line):
